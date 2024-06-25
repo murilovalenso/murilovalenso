@@ -31,7 +31,7 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Redes-Neurais-para-prever-acoes-da-Bolsa-com-Python-e-TensorFlow&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Redes-Neurais-para-prever-acoes-da-Bolsa-com-Python-e-TensorFlow&theme=dark)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Projeto-Pipeline-de-Dados-Telegram&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=IA-e-Analise-de-Series-Temporais-com-Power-BI&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Machine-Learning-e-Power-BI---Identificar-Anomalias&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
