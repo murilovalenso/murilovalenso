@@ -80,3 +80,4 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 ![Google Colab](https://img.shields.io/badge/GoogleColab-F38020?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000.svg?style=for-the-badge&logo=PowerBI&logoColor=yellow)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000.svg?style=for-the-badge&logo=Jupyter&logoColor=orange)
