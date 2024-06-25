@@ -31,18 +31,18 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Redes-Neurais-para-prever-acoes-da-Bolsa-com-Python-e-TensorFlow&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Projeto-Pipeline-de-Dados-Telegram&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=IA-e-Analise-de-Series-Temporais-com-Power-BI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Machine-Learning-e-Power-BI---Identificar-Anomalias&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Projeto-Loggi-Transportes-Analise-de-Dados-em-Pyn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Desafio_Modulo_3_Dio_Mysql_Azure_PowerBI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Machine-Learning-e-Power-BI---Cluster-de-clientes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Projeto-Power-BI-Dio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=EBAC_Projeto_Parceria-Machine-Learning&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Analise-de-dados-de-credito-com-SQL&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Modulo17_Git_EBAC&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Desafio-Sistema-Bancario--DIO&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Redes-Neurais-para-prever-acoes-da-Bolsa-com-Python-e-TensorFlow&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Projeto-Pipeline-de-Dados-Telegram&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=IA-e-Analise-de-Series-Temporais-com-Power-BI&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Machine-Learning-e-Power-BI---Identificar-Anomalias&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Projeto-Loggi-Transportes-Analise-de-Dados-em-Pyn&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Desafio_Modulo_3_Dio_Mysql_Azure_PowerBI&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Machine-Learning-e-Power-BI---Cluster-de-clientes&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Projeto-Power-BI-Dio&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=EBAC_Projeto_Parceria-Machine-Learning&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Analise-de-dados-de-credito-com-SQL&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Modulo17_Git_EBAC&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murilovalenso&repo=Desafio-Sistema-Bancario--DIO&theme=dark)](https://github.com/murilovalenso/github-readme-stats)
 
 ## Linguagens de Marcação e Estilo
 
