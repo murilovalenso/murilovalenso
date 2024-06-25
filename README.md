@@ -51,16 +51,16 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 ## Linguagens de Programação
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=SQL&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
 
 ## Banco de Dados
 
 ![Spark](https://img.shields.io/badge/Spark-000.svg?style=for-the-badge&logo=Spark&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=Mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=Sqlite&logoColor=07405E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=Postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=Mongodb&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-000.svg?style=for-the-badge&logo=Redshift&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-%230167ff.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-%234285F4.svg?style=for-the-badge&logo=Airflow&logoColor=white)
 
@@ -77,6 +77,6 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 ## Ferramentas
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/GoogleColab-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Google Colab](https://img.shields.io/badge/GoogleColab-F38020?style=for-the-badge&logo=googlecolab&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-000.svg?style=for-the-badge&logo=PowerBI&logoColor=yellow)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
