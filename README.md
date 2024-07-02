@@ -61,6 +61,7 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=Postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=Mongodb&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-000.svg?style=for-the-badge&logo=Redshift&logoColor=white)
+![Redshift](https://img.shields.io/badge/Bigquery-%234285F4.svg?style=for-the-badge&logoBigquery&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-%230167ff.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-%234285F4.svg?style=for-the-badge&logo=Airflow&logoColor=white)
 
