@@ -7,7 +7,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF6400&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Olá!+Eu+sou+Murilo+Valenso.+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D)](https://git.io/typing-svg)
 
-Sou formado em Administração pela Universidade Federal de Uberlândia e em Análise de Dados pela EBAC. Tenho mais de 10 anos de experiência na área Administrativa, Comercial e Logística, consolidadas em grandes empresas no ramo de atacado e varejo. Ética e espírito motivador na chefia direta e coordenação de profissionais, com destacada habilidade na formação de equipes com alto rendimento. Com formação acadêmica em administração e análise de dados, busco o desenvolvimento da minha carreira atuando principalmente em análise de dados para inteligência de mercado e performance, sendo assim, através do meu conhecimento e experiência procuro possibilitar crescimento qualitativo e quantitativo para os envolvidos.
+Sou formado em Administração pela Universidade Federal de Uberlândia e em Análise de Dados pela EBAC com especialização em Engenharia de Dados. Tenho mais de 10 anos de experiência , consolidadas em grandes empresas no ramo de atacado e varejo. Ética e espírito motivador na chefia direta e coordenação de profissionais, com destacada habilidade em gestão de dados, formação de equipes e performance de resultados. Estou sempre em busca do desenvolvimento da minha carreira atuando principalmente na área de Dados e Inteligência de Mercado, sendo assim, através do meu conhecimento e experiência procuro possibilitar crescimento qualitativo e quantitativo para os envolvidos.
+
+As minhas principais habilidades e competências desenvolvidas ao longo desta jornada:
+
+Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Modelagem Descritiva, Séries Temporais, Machine Learning, Mineração de Dados, Competência em identificar padrões e tendências, Habilidade em limpar, organizar e gerenciar grandes volumes de dados de forma eficiente.
 
 As minhas principais habilidades e competências desenvolvidas ao longo desta jornada:
 
