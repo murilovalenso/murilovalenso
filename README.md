@@ -62,6 +62,7 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 
 ![Spark](https://img.shields.io/badge/Spark-000.svg?style=for-the-badge&logo=Spark&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=Mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-00000F?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=red)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=Sqlite&logoColor=07405E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=Postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=Mongodb&logoColor=white)
