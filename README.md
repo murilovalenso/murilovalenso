@@ -13,10 +13,6 @@ As minhas principais habilidades e competências desenvolvidas ao longo desta jo
 
 Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Modelagem Descritiva, Séries Temporais, Machine Learning, Mineração de Dados, Competência em identificar padrões e tendências, Habilidade em limpar, organizar e gerenciar grandes volumes de dados de forma eficiente.
 
-As minhas principais habilidades e competências desenvolvidas ao longo desta jornada:
-
-Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Modelagem Descritiva, Séries Temporais, Machine Learning, Mineração de Dados, Competência em identificar padrões e tendências, Habilidade em limpar, organizar e gerenciar grandes volumes de dados de forma eficiente em banco de dados.
-
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/murilo-valenso-b9b494100/)
