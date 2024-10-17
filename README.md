@@ -79,7 +79,8 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 
 ## Sistema Operacional
 
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF&color=0078D6)
+
 
 ## Ferramentas
 
