@@ -56,26 +56,30 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 ## Linguagens de Programação
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=SQL&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+![SQL](https://img.shields.io/badge/SQL-0078D4?style=for-the-badge&logo=sqlite&logoColor=0078D4&color=000000)
+![PySpark](https://img.shields.io/badge/PySpark-EF7A1B?style=for-the-badge&logo=Apache%20Spark&logoColor=FFFFFF&color=EF7A1B)
+
+
+
 
 ## Banco de Dados
 
-![Spark](https://img.shields.io/badge/Spark-000.svg?style=for-the-badge&logo=Spark&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=Mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-00000F?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=red)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF&color=000000)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=Sqlite&logoColor=07405E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=Postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=Mongodb&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-000.svg?style=for-the-badge&logo=Redshift&logoColor=white)
-![Redshift](https://img.shields.io/badge/Bigquery-%234285F4.svg?style=for-the-badge&logoBigquery&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-DC143C?style=for-the-badge&logo=Amazon%20Redshift&logoColor=FFFFFF&color=000000)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-0E5EAA?style=for-the-badge&logo=Google%20BigQuery&logoColor=FFFFFF&color=0E5EAA)
 ![Snowflake](https://img.shields.io/badge/Snowflake-%230167ff.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-%234285F4.svg?style=for-the-badge&logo=Airflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-17a2b8?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF&color=17a2b8)
+
 
 ## Serviço de computação em nuvem
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=FFFFFF&color=0078D4)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900&color=232F3E)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF&color=4285F4)
 
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GoogleCloud](https://img.shields.io/badge/GOOGLECLOUD-F38020?style=for-the-badge&logo=GOOGLECLOUD&logoColor=white)
 
 ## Sistema Operacional
 
@@ -85,7 +89,10 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/GoogleColab-F38020?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Databricks](https://img.shields.io/badge/databricks-F38020?style=for-the-badge&logo=databricks&logoColor=orange)
-![PowerBI](https://img.shields.io/badge/PowerBI-000.svg?style=for-the-badge&logo=PowerBI&logoColor=yellow)
+![Databricks](https://img.shields.io/badge/Databricks-FF5A00?style=for-the-badge&logo=Databricks&logoColor=FF5A00&color=000000)
+![Power BI](https://img.shields.io/badge/Power_BI-D9B000?style=for-the-badge&logo=Power%20BI&logoColor=FFFFFF&color=D9B000)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000.svg?style=for-the-badge&logo=Jupyter&logoColor=orange)
+![Airbyte](https://img.shields.io/badge/Airbyte-2D3E50?style=for-the-badge&logo=Airbyte&logoColor=FFFFFF&color=2D3E50)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-EF7A1B?style=for-the-badge&logo=Apache%20Spark&logoColor=FFFFFF&color=EF7A1B)
+
