@@ -85,6 +85,7 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/GoogleColab-F38020?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Databricks](https://img.shields.io/badge/databricks-F38020?style=for-the-badge&logo=databricks&logoColor=orange)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000.svg?style=for-the-badge&logo=PowerBI&logoColor=yellow)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000.svg?style=for-the-badge&logo=Jupyter&logoColor=orange)
