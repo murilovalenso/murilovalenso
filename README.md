@@ -22,7 +22,7 @@ Análise de Dados Avançada , Visualização de Dados, Modelagem Preditiva, Mode
 
 ## Contato
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5534991766251)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5564981048240)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:murilovalenso23@gmail.com)
 
 ## Detalhes
